@@ -27,7 +27,7 @@ _Always prioritize ethical practices in cybersecurity. If you're unsure about th
 
 ## Steps to perform password Brute Forcing using the provided script:
 
-#### Step 1: Make sure pwntools is installed in your Kali Linux Virtual Machine
+#### Step 1: Make sure pwntools is installed in your Kali Linux Virtual Machine.
     sudo apt-get install python3-pwntools 
 <br>
 
