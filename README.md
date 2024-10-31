@@ -2,7 +2,9 @@
 
 ## Disclaimer
 
-_This script demonstrates a basic brute-force technique intended for educational purposes and authorized penetration testing only._ _**Unauthorized use of this script is illegal and unethical**._ 
+_This script demonstrates a basic brute-force technique intended for educational purposes and authorized penetration testing only._ 
+
+_**Unauthorized use of this script is illegal and unethical**._ 
 
 _By using this script, you agree to the following:_
 
